@@ -1,0 +1,9 @@
+.nav-bar-item {
+    color: #fff;
+    padding: 4px;
+  }
+  
+  a.nav-bar-item:hover {
+    color: #fff;
+    border-bottom: 1px solid white;
+  }
